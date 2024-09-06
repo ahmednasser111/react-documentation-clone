@@ -50,7 +50,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-documentation-clone.git
+   git clone https://github.com/ahmednasser111/react-documentation-clone.git
    cd react-documentation-clone
    ```
 
@@ -84,6 +84,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - your.email@example.com
+Ahmed Nasser - ahmednaser7707@gmail.com
 
-Project Link: [https://github.com/your-username/react-documentation-clone](https://github.com/your-username/react-documentation-clone)
+Project Link: [https://github.com/ahmednasser111/react-documentation-clone](https://github.com/ahmednasser111/react-documentation-clone)
